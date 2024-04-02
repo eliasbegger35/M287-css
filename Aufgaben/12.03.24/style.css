@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(11, 11, 74);
+}
+ 
+ol {
+    margin-left: -40px;
+    margin-top: -26px;
+    list-style-position: inside;
+}
+ 
+p {
+    color: red;
+}
+ 
+.note {
+    font-size: 20px;
+}
+ 
+#id-selector-demo {
+    color: green;
+}
+ 
+li[value="4"] {
+    color: blue;
+}
+ 
+li{
+    text-align: center;
+}

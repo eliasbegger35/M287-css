@@ -1,0 +1,40 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+#übung1 {
+    padding: 20px;
+    margin: 30px;
+}
+
+#übung2_1 {
+    padding: 15px;
+    margin-right: 10px;
+}
+#übung2_2 {
+    padding: 25px;
+}
+
+#übung3_outer {
+    padding: 20px;
+    margin: 15px 0;
+}
+
+#übung3_inner {
+    padding: 30px;
+}
+
+#übung4 {
+    padding: 40px;
+    margin: 50px;
+}
+
+#übung5_1 {
+    margin-bottom: 40px;
+}
+#übung5_2 {
+    margin-top: 30px;
+}
